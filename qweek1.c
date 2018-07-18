@@ -1,3 +1,5 @@
+
+
 //bgfbdhgdnhyj
 //kilkjli
  prize Testyourskill (All_Languages) {
@@ -11,4 +13,3 @@ main ( ){
 scanf(" %d%d", &brain,&passion);
 if (brain && passion) {   
            TestYourskill
-
