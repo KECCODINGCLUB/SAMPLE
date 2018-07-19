@@ -1,4 +1,4 @@
-//bgfbdhgdnhyj
+//great
 //kilkjli
  prize Testyourskill (All_Languages) {
  char Venue[7]= "auditorium" ;
