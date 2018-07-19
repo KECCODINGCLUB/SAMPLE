@@ -12,3 +12,4 @@ scanf(" %d%d", &brain,&passion);
 if (brain && passion) {   
            TestYourskill
 
+SGHIJI9OU89
