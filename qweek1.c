@@ -1,7 +1,7 @@
 //bgfbdhgdnhyj
 //kilkjli
  prize Testyourskill (All_Languages) {
- char Venue[7]= "auditorium" ;
+ char Venue[7]= "CLASS" ;
 char Date[10]= "21 st july 2018" ;
 char Time[10]= "9:00 AM" ;
 return winprize; 
