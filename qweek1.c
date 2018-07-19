@@ -11,4 +11,4 @@ main ( ){
 scanf(" %d%d", &brain,&passion);
 if (brain && passion) {   
            TestYourskill
-FHFHLKHJR
+
