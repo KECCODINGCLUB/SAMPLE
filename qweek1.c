@@ -10,5 +10,5 @@ main ( ){
  int brain,passion;
 scanf(" %d%d", &brain,&passion);
 if (brain && passion) {   
-           TestYourskill
+           TestYourskill02596250941
 
