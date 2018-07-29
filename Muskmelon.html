@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<script>
+function odd_even(){
+var no;
+no=Number(document.getElementById("no_input").value);
+if(no%2==0&&no<101&&no>1)
+{
+alert("YES");
+alert("It Is Even Number");
+}
+else if(no%2!=0&&no<101)
+{
+alert("NO");
+alert("It Is Odd Number");
+}
+else
+{
+alert("Muskmelon weight should be 1<=w<=100.");
+alert("Please Try again");
+}
+}
+</script>
+</head>
+<body>
+<font color="blue">Enter the Number(w)</font>:<input id="no_input"><br />
+<button onclick="odd_even()">click here</button>
+</body>
+</html>
