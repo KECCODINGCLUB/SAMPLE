@@ -11,4 +11,5 @@ main ( ){
 scanf(" %d%d", &brain,&passion);
 if (brain && passion) {   
            TestYourskill
-
+bring the talent out 
+            make the future bright
